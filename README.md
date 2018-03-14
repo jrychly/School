@@ -7,9 +7,10 @@
     - Fyzika - kompletní přepis sešitu (teorie + lehká praxe)
     - Informační a výpočetní technologie - přepis sešitu
     - Aplikační software - přepis sešitu (+ odkazy na praktická cvičení)  
-2) Prezentace
+2) Prezentace (v PDF)
 
 ####Zakladní škola
-- Informatika - práce, které jsem vypracoval během ZŠ
+1) Informatika - práce, které jsem vypracoval během ZŠ
+2) [Prezentace](http://goo.gl/rfQp9Y) (pouze link na Google drive)
 
 Vytvořil: [Jakub Rychlý](https://jakubrychly.cz)
