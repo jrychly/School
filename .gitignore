@@ -2,3 +2,6 @@
 /Úvod do programování/.vs
 /Úvod do programování/cmake-build-debug
 /Úvod do programování/CmakeLists.txt
+\.vscode/
+
+*.pdf
